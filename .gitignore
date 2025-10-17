@@ -1,0 +1,36 @@
+# --- Virtual Environment ---
+venv/
+env/
+.venv/
+ENV/
+
+# --- Python cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Logs and system files ---
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+Thumbs.db
+
+# --- IDE folders ---
+.vscode/
+.idea/
+
+# --- Build and dist folders ---
+build/
+dist/
+*.egg-info/
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- Temporary files ---
+*.tmp
+*.bak
